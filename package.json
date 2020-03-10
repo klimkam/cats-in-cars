@@ -1,0 +1,19 @@
+{
+    "name": "cats-in-cars",
+    "version": "1.0.0",
+    "description": "Cats in sport cars",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/klimkam/cats-in-cars.git"
+    },
+    "author": "klimkam",
+    "license": "SEE LICENSE IN LICENSE",
+    "bugs": {
+        "url": "https://github.com/klimkam/cats-in-cars/issues"
+    },
+    "homepage": "https://github.com/klimkam/cats-in-cars#readme"
+}
